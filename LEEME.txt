@@ -1,0 +1,7 @@
+En esta rama fue añadida la Parte 1 del trabajo en formato .pdf. 
+
+Queda en espera la Parte 2 y la Parte 3 en sus respectivas ramas para hacerles merge en la rama main.
+
+Fecha Actualizacion 19/01/2023. 22:01 H.
+
+Un saludo David
