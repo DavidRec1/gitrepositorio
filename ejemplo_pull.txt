@@ -1,0 +1,1 @@
+En este archivo demostraremos los pasos a seguir para realizar un pull a nuestro repositorio personal.
