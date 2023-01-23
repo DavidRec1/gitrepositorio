@@ -1,1 +1,5 @@
-Branch Parte 3 destinada a la tercera y ultima parte del proyecto.
+Branch Parte3 finalizada con lo cual es modificada anunciando sus cambios.
+
+Se han acoplado los cambios y se ha añadido la Parte3.pdf como archivo final de la branch Parte3
+
+fecha de realización 23:15 23/01/2023
