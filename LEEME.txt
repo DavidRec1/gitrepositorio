@@ -1,1 +1,9 @@
-Esta parte va a estar destinada para la parte 2 del proyecto, aquí iremos subiendo toda la información del ejercicio 2.
+Parte 2 finalizada con lo cual es modificada anunciando sus cambios.
+
+Se ha añadido ejemplo_pull.txt como parte de la Parte2.pdf
+
+Se ha añadido ejemplo_push.txt como parte de la Parte2.pdf
+
+Se han acoplado los cambios anteriores y se ha añadido Parte2.pdf como archivo final de la branch Parte2.
+
+fecha de realizacion 23:00 23/01/2023.
