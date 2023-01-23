@@ -1,0 +1,60 @@
+							Git
+
+
+A continuación, algunos comandos básicos de Git que te pueden ser útiles:
+
+    git status: Muestra el estado actual del repositorio, incluyendo los archivos modificados y los que aún no se han agregado al repositorio.
+
+    git add: Agrega archivos al área de preparación. Los archivos en el área de preparación se incluirán en el próximo commit.
+
+    git commit: Crea un punto de control en el historial de tu repositorio, con un mensaje que describa los cambios realizados.
+
+    git log: Muestra el historial de commits del repositorio.
+
+    git diff: Muestra las diferencias entre los archivos en el repositorio y los archivos modificados localmente.
+
+    git branch: Muestra las ramas existentes en el repositorio.
+
+    git checkout: Cambia entre ramas o commits específicos.
+
+    git merge: Combina los cambios de una rama con la rama actual.
+
+    git pull: Descarga los cambios más recientes desde un repositorio remoto y fusiona los cambios con la rama actual.
+
+    git push: Envía los cambios de un repositorio local a un repositorio remoto. 
+
+    git init: Inicializa un nuevo repositorio en la carpeta actual.
+
+    git clone: Crea una copia de un repositorio remoto en tu computadora.
+    
+    git remote: Muestra una lista de todos los repositorios remotos asociados con el repositorio local.
+    
+    git fetch: Descarga los cambios remotos pero no los fusiona con tu rama local.
+
+    git reset: Deshace los cambios en el área de preparación o en un commit específico.
+    
+    git stash: Guarda los cambios no commitados en un "basurero" temporal para que puedas cambiar de rama sin perder los cambios.
+    
+    git tag: Etiqueta un commit específico con un nombre legible para humanos.
+    
+    git blame: Muestra quién hizo cambios en una línea específica de un archivo.
+    
+    git bisect: Busca un commit específico mediante un proceso de búsqueda binaria.
+    
+    git submodule: Agrega un repositorio Git dentro de otro repositorio Git.
+    
+    git cherry-pick: Aplica un commit específico a la rama actual.
+    
+    git rebase: Reaplica los commits de una rama a otra rama.
+    
+    git filter-branch: Modifica el historial de commits en una rama específica.
+    
+    git gc : Limpia y optimiza el repositorio local.
+    
+    git fsck : Verifica la integridad del repositorio local.
+    
+    git mv : Mueve o renombra un archivo o directorio.
+
+    Estos comandos son más avanzados y se utilizan en situaciones específicas, pero es importante conocerlos ya que te pueden ser de gran utilidad en ciertas situaciones. 
+
+    Es importante que practiques con ellos y te familiarices con su sintaxis y funcionamiento antes de usarlos en un entorno de producción
