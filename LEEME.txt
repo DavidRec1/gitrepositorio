@@ -1,2 +1,6 @@
-En esta rama principal se unificaran todas las partes del proyecto cuando esten completadas y verificadas.
-hasta dicho momento ¡NO TOCAR!
+Todas las Partes del proyecto ya han sido culminadas (Parte1,Parte2,Parte3) estan en formatos .pdf.
+
+En esta branch (main) se supone que deben de unirse todas estas partes y formar un unico archivo como si fuera parte de una actualizacion.
+
+Debido a que los archivos .pdf no pueden solaparse como para formar uno solo hemos añadido todas las partes por individual y un archivo extra ejemplificando como deberian de verse
+este archivo fue llamado Proyecto_Culminado.pdf.
